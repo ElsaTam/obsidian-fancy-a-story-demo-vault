@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ef833b3703d9b6af","type":"text","text":"Poster #node-title-poster #node-large","x":-800,"y":-800,"width":520,"height":160,"color":"2"},
+		{"id":"630b316d6bfaa5a6","type":"text","text":"Arcane #node-title-arcane #node-large","x":-800,"y":-620,"width":520,"height":160,"color":"3"},
+		{"id":"5fe527de3d6a618d","type":"text","text":"Neon #node-title-neon #node-large","x":-800,"y":-440,"width":520,"height":160,"color":"5"},
+		{"id":"d5ea6f59d6b3e3d2","type":"text","text":"Vintage #node-title-vintage #node-large","x":-800,"y":-260,"width":520,"height":180}
+	],
+	"edges":[]
+}

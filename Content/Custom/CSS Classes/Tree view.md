@@ -1,0 +1,326 @@
+---
+cssclasses:
+  - tree-view
+doc: https://elsatam.github.io/obsidian-fancy-a-story/docs/cssclasses/tree-view.html
+---
+
+- Solar bodies
+	- Solar System
+		- Terrestrial planet
+		- Giant planet
+			- Gas giant
+			- Ice giant
+		- Heliosphere
+		- Oort cloud
+			- Hills Cloud
+		- Meteoroid
+			- Micrometeoroid
+		- Meteor
+			- Bolide
+		- Moons
+			- Moonlets
+			- Subsatellites (hypothet.)
+		- Minor planets (see below)
+			- Asteroids
+			- Dwarf planets
+			- Moons
+			- Binaries
+			- Synestia (hypothet.)
+		- Planets (see below)
+			- Ring system
+		- Trans-Neptunian objects
+		- Small Solar System body
+			- Comets
+			- Planetesimal
+			- Contact binary
+		- Sun
+	- Planets
+		- Mercury
+		- Venus
+		- Earth - Moon
+		- Mars - moons
+		- Jupiter - moons
+		- Saturn - moons
+		- Uranus - moons
+		- Neptune - moons
+	- Dwarf planets
+		- Pluto - moons
+		- Eris - Dysnomia
+		- Ceres
+		- Makemake - moon
+		- Haumea - moons
+		- Others
+	- Minor planets
+		- Vulcanoids (hypothet.)
+		- 'Ayló'chaxnims
+		- Atiras
+		- Near-Earth objects
+			- PHO
+			- Arjunas
+			- Atens
+			- Apollos
+			- Amors
+		- Mars-crossers
+		- Asteroid belt (families)
+			- Alindas
+			- Cybeles
+			- Eos
+			- Floras
+			- Hildas
+			- Hungarias
+			- Hygieas
+			- Koronis
+			- Marias
+			- Nysas
+			- Pallas
+			- Phocaeas
+			- Themis
+			- Vesta
+		- Trojans
+			- Earth
+			- Mars
+			- Jupiter
+			- Uranus
+			- Neptune
+		- Centaurs
+			- Damocloids
+		- Kuiper belt objects
+			- Classical KBOs
+			- Resonant TNOs
+				- Plutinos (2:3)
+				- Twotinos (1:2)
+		- Scattered disc objects
+			- Detached objects
+		- Sednoid
+- Extrasolar
+	- Simple bodies
+		- Exoplanets
+			- Chthonian (theoret.)
+			- Earth analog
+			- Eccentric Jupiter
+			- Exomoon
+				- Tidally detached exomoon
+			- Exocomet
+			- Hot Jupiter
+			- Hot Neptune
+			- Rogue planet
+			- Ocean (theoret.)
+			- Pulsar planet
+			- Super-Earth
+			- Tidally locked planet
+				- Eyeball planet (theoret.)
+			- Toroidal planet (theoret.)
+			- Trojan (theoret.)
+			- USP
+		- Brown dwarfs
+			- Types
+				- M  · L  · T  · Y
+			- Sub-brown dwarfs
+		- Stars (see sections below)
+			- Stellar classification
+			- Stellar population III, II, I
+			- Peculiar star
+			- Stellar evolution
+			- Variable star
+			- Compact star
+		- By luminosity / evolution
+			- Protostar
+			- Young stellar object
+			- Pre-main-sequence
+			- Main sequence
+			- Subdwarfs
+			- Subgiants
+			- Giants
+				- Red / Blue
+			- Bright giants
+			- Supergiants
+				- Red / Blue
+			- Hypergiants
+			- Ultra-cool dwarf
+			- Quasi-star (hypothet.)
+			- Compact stars (see below)
+		- Compact stars
+			- Black hole
+				- Stellar
+				- Intermediate-mass
+				- Supermassive
+				- GRBs
+				- BBHs
+			- Exotic star (hypothet.)
+			- Iron star (hypothet.)
+			- Neutron star
+				- Blitzar (hypothet.)
+				- Magnetar
+				- Pulsar
+				- Thorne–Żytkow object (hypothet.)
+			- Planck star (hypothet.)
+			- Preon star (hypothet.)
+			- Quark star (hypothet.)
+				- Strange star (hypothet.)
+			- White dwarf
+				- Black dwarf (theoret.)
+		- By peculiar stars
+			- A-type
+				- Peculiar  · Metallic
+			- Barium
+			- Blue straggler
+			- Carbon
+			- P Cygni
+			- S-type
+			- Shell
+			- Wolf–Rayet
+		- Variables – Extrinsic
+			- Rotating
+				- Alpha2 CVn
+				- Ellipsoidal
+			- Eclipsing binaries
+				- Algol
+				- Beta Lyrae
+				- W Ursae Majoris
+		- Variables – Intrinsic
+			- Pulsating
+				- Cepheids
+				- W Virginis
+				- Delta Scuti
+				- RR Lyrae
+				- Mira
+				- Semiregular
+				- Irregular
+				- Beta Cephei
+				- Alpha Cygni
+				- RV Tauri
+			- Eruptive variables
+				- Flare stars
+				- T Tauri
+				- FU Orionis
+				- RCr Borealis
+				- Luminous blue
+			- Cataclysmic
+				- Symbiotics
+				- Micronova
+				- Dwarf nova
+				- Nova
+				- Supernova
+					- Type: Ia  · Ib/c  · II
+					- Hypernova
+					- GRBs
+					- Failed supernova
+		- By spectral types
+			- O (blue)
+			- B (blue-white)
+			- A (white)
+			- F (yellow-white)
+			- G (yellow)
+			- K (orange)
+			- M (red)
+	- Compound objects
+		- Systems
+			- Planetary
+			- Star
+				- Stars in general
+				- Binary (see below)
+				- Triples
+				- Higher order
+		- Binary stars
+			- By observation
+				- Optical
+				- Visual
+				- Astrometric
+				- Spectroscopic
+				- Eclipsing
+			- Close binaries
+				- Detached
+				- Semidetached
+				- Contact
+			- X-ray
+				- Burster
+		- Stellar groupings
+			- Star cluster
+				- Stellar association
+				- Open
+				- Globular
+				- Hypercompact
+			- Constellation
+			- Asterism
+		- Galaxies
+			- Galaxies in general
+			- Group and cluster
+			- Satellite galaxy
+			- Supercluster
+			- By component
+				- Bulge
+				- Spiral arm
+				- Thin disk
+				- Thick disk
+				- Halo
+				- Corona
+				- Tidal tail
+				- Stellar stream
+			- By morphology
+				- Spiral
+				- Barred spiral
+				- Lenticular
+				- Elliptical
+				- Ring
+				- Irregular
+			- By size
+				- Brightest cluster
+				- Giant elliptical
+				- Dwarf
+			- By type
+				- Protogalaxy
+				- Starburst
+				- Dark
+				- Active
+					- Radio
+					- Seyfert
+					- Quasar
+						- Microquasar
+					- Blazar
+						- OVV
+				- Red nugget
+				- Void galaxy
+	- Extended objects
+		- Discs and media
+			- Interplanetary
+				- Dust cloud
+				- Medium
+				- Magnetic field
+			- Stellar disc
+				- Accretion
+				- Circumstellar
+					- Protoplanetary
+					- Debris
+			- Interstellar
+				- Cloud
+				- Medium
+				- ORCs
+			- Intergalactic
+				- Dust
+				- Medium
+				- ORCs
+		- Nebulae
+			- Emission
+				- Planetary
+				- Supernova remnant
+				- Plerion
+				- H II region
+			- Reflection
+			- Dark nebulae
+				- Molecular cloud
+				- Bok globule
+				- Proplyd
+			- H I region
+		- Cosmic scale
+			- CMB
+			- Cosmic string (hypothet.)
+			- Dark matter
+				- MACHO
+				- WIMP
+			- Domain wall (hypothet.)
+			- Dust
+			- Filament
+			- LQG
+			- Void
+				- Supervoid
+
