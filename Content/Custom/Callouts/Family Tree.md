@@ -4,7 +4,7 @@ cssclasses:
   - wide-page
 ---
 
-> [!family-tree|no-blending]
+> [!family-tree]
 > - Julius Caesar
 > - Julia Minor #wed
 > 	- Marcus Atius Balbus
