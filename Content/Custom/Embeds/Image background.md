@@ -3,6 +3,14 @@ doc: https://elsatam.github.io/obsidian-fancy-a-story/docs/embeds/background-ima
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc molestie posuere viverra. Donec vitae dapibus nibh, sed venenatis risus. Nam eget lacinia elit. Pellentesque sed est congue, consectetur leo eget, gravida erat. Aenean tristique viverra magna, eget convallis ante. Donec pellentesque diam at massa porttitor auctor. Aliquam interdum tincidunt semper. Phasellus vehicula, dolor nec rhoncus euismod, risus nisl scelerisque leo, in aliquam enim nisi vel nisl. Proin cursus urna mauris, eget venenatis purus molestie vel. Etiam quis est efficitur, pharetra nisl non, iaculis nisi. Integer sagittis suscipit lectus, consectetur dignissim nunc commodo et. In mauris risus, hendrerit nec lorem sit amet, dictum scelerisque risus. Quisque convallis eros eu commodo efficitur. Aenean orci urna, bibendum sit amet pretium non, dignissim eget dolor.
 
+
+|              |                                                  |
+| ------------ | ------------------------------------------------ |
+| pretium      | Lorem ipsum dolor sit amet, consectetur          |
+| commodo      | Vivamus sodales magna nec diam euismod           |
+|  nec rhoncus | Sed eget fringilla tellus, viverra aliquet metus |
+
+
 Pellentesque mattis pulvinar enim ac molestie. In ac imperdiet leo. Integer fringilla dictum dapibus. Vivamus sodales magna nec diam euismod, vitae semper nibh vehicula. Sed ut neque in libero suscipit elementum. Quisque in rutrum erat. Aenean et dignissim arcu. Sed eget fringilla tellus, viverra aliquet metus. Mauris iaculis et sapien eget tempus. Nunc ut imperdiet mi.
 
 ![[Nebula.jpg|background edit-icon]]
