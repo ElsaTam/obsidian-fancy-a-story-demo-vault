@@ -32,6 +32,12 @@ _This is italic text_
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
+## Tags
+
+#tag
+#nested/tag
+
+
 ## Code
 
 Inline `code`
