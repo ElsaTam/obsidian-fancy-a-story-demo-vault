@@ -4,20 +4,24 @@ doc: https://elsatam.github.io/obsidian-fancy-a-story/docs/callouts/email.html
 
 > [!email]+ 
 > > [!note] Subject
-> > &nbsp;
+> > Need help, Off the record
 >
 > > [!note] From
-> > &nbsp;
+> > Jay Johnson
 >
 > > [!note] To
-> > &nbsp;
+> > Steeven Brown
 >
 > > [!note|sep] At
-> > &nbsp;
+> > August 25, 2024, 05:43 AM
 > 
-> Hey,
+> Steev,
 >
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut.
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac enim ut sapien imperdiet gravida. Nulla sed turpis et neque tincidunt convallis. Phasellus posuere nisi eros, non tincidunt erat tincidunt ut.
->
-> Thanks
+> I can't go through official channels on this one. I found out where Emma's killer will be this Friday - old train station, locker 24. I want to catch him and take him down myself. Problem is, I can't risk having the cops involved. They'll only slow me down with red tape and protocols.
+> 
+> I need you there, just in case things go south. Your medical expertise could be crucial if anyone gets hurt, including the killer. I need to keep him alive. I trust you to keep this off the books.
+> Emma's death is on my shoulders, and I have to make this right. Can you be there Friday evening, ready to step in if needed?
+> 
+> Let me know ASAP.
+> Jay
+

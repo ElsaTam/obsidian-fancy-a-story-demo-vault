@@ -1,5 +1,8 @@
 ---
-cssclasses: []
+cssclasses:
+  - h2-stroke-left-aligned
+  - h4-display
+  - h6-stroke
 ---
 # h1 Heading
 ## h2 Heading
@@ -7,6 +10,8 @@ cssclasses: []
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
+
+###### 
 
 text
 
@@ -65,5 +70,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur m
 
 ##### h5 Heading
 ###### h6 Heading
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse efficitur malesuada dolor et feugiat. Maecenas at risus ut ipsum rutrum maximus a id arcu.

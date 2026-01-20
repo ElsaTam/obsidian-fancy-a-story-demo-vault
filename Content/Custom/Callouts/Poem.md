@@ -31,7 +31,7 @@ doc: https://elsatam.github.io/obsidian-fancy-a-story/docs/callouts/poem.html
 > <cite>Dylan Thomas</cite>
 
 
-> [!poem|frame]+ Do not go gentle into that good night
+> [!poem|frame accent]+ Do not go gentle into that good night
 > Do not go gentle into that good night,
 > Old age should burn and rave at close of day;
 > Rage, rage against the dying of the light.
