@@ -4,7 +4,7 @@ cssclasses:
   - compact
 ---
 
-> [!fas-infobox|corners red center lp-minimize]+ Fosse Verdon
+> [!fas-infobox|corners red center lp-mini]+ Fosse Verdon
 > ![cover](https://images.prismic.io/yuco/ZgOxa8cYqOFdyGrq_FOSSE-EP108.png?auto=format,compress)
 > 
 > ![icon](https://images.prismic.io/yuco/ZgOxa8cYqOFdyGrq_FOSSE-EP108.png?auto=format,compress)
@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et neque sed me
 
 Praesent vehicula orci interdum, vulputate metus quis, sollicitudin odio. Pellentesque at pharetra turpis. Ut viverra orci diam, eget congue ipsum tempor quis. Duis tristique turpis tempor eros commodo, sed pellentesque nisl molestie. Donec porttitor auctor faucibus. Aenean eu ex malesuada, bibendum lacus in, eleifend urna. Morbi sed pharetra ligula. Nunc tincidunt vel felis ut fermentum. Proin ligula libero, aliquam nec imperdiet posuere, viverra quis risus. Maecenas orci quam, cursus nec faucibus eget, iaculis porta odio. Vivamus ac nisi nec odio commodo dictum eu ac nibh. Curabitur augue dolor, accumsan et mattis eget, aliquam in odio. Integer blandit mauris id nunc pretium cursus. Etiam dictum aliquet mi, a facilisis quam eleifend ac.
 
-> [!fas-infobox|purple no-thead h1-title lp-minimize]+ # Gwen Verdon
+> [!fas-infobox|purple no-thead h1-title lp-mini]+ # Gwen Verdon
 > ![[Fosse-Verdon-8.jpg|cover]]
 > 
 > ![icon](https://images.prismic.io/yuco/ZgOxa8cYqOFdyGrq_FOSSE-EP108.png?auto=format,compress)
@@ -39,7 +39,7 @@ Duis hendrerit, elit vel suscipit tempor, lectus nibh pharetra leo, id sagittis 
 
 Nullam tristique, felis ut malesuada aliquam, eros nunc bibendum neque, id ullamcorper mauris elit id urna. Fusce imperdiet scelerisque iaculis. Nulla facilisi. Quisque felis lacus, vulputate cursus pharetra non, tristique eget nunc. Integer ultrices imperdiet eros, eu hendrerit nisl aliquet at. Nullam tristique, felis ut malesuada aliquam, eros nunc bibendum neque, id ullamcorper mauris elit id urna. Fusce imperdiet scelerisque iaculis. Nulla facilisi. Quisque felis lacus, vulputate cursus pharetra non, tristique eget nunc. Integer ultrices imperdiet eros, eu hendrerit nisl aliquet at.
 
-> [!fas-infobox|no-title left no-blending lp-minimize]+
+> [!fas-infobox|no-title left no-blending lp-mini]+
 > # Bob Fosse
 > 
 > ![background](https://assets.fxnetworks.com/cms-next/production/cms/2019/02/08/web_cast_samrockwell_fosse-verdon_570x698.jpg)
