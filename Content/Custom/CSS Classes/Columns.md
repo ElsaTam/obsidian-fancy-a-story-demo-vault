@@ -21,7 +21,15 @@ Donec ac nunc rutrum, lacinia mi et, hendrerit turpis. Nulla ullamcorper venenat
 
 Vivamus semper congue velit sed porta. Vivamus quis ipsum velit. Etiam porttitor gravida gravida. Phasellus suscipit quam nulla, gravida volutpat magna interdum a. Suspendisse mollis, arcu eget bibendum sodales, sem leo ullamcorper diam, ac maximus quam ante ut urna. Vivamus feugiat nibh ac eros facilisis, id elementum ex ultricies. Sed condimentum malesuada tellus sit amet tincidunt. Nullam mattis id nulla vitae viverra. Donec congue turpis sed massa pellentesque, eu aliquam neque suscipit.
 
+==There is a column break just after==
+
+<span class="column-break"></span>
+
 Nam rutrum vitae leo at finibus. Donec pulvinar eget ipsum ut ullamcorper. Pellentesque dapibus sem nec libero tempus iaculis. Cras mollis augue eu nulla malesuada, nec pulvinar mauris tempus. Vestibulum sed tellus interdum, condimentum tortor quis, dictum ipsum. Duis id erat congue, pulvinar lorem eget, porta tortor. Pellentesque quis mauris turpis. Vivamus in mattis nulla, vitae egestas enim. Nulla consectetur diam sed nisi semper, vel porttitor ligula posuere. Quisque sodales magna sem. Nam posuere nisl eu tortor commodo, in eleifend felis vulputate. Sed vestibulum arcu sed porttitor fringilla.
+
+==There is a page break just after==
+
+<span class="page-break"></span>
 
 Etiam lacinia justo at lorem condimentum suscipit. Vivamus eget venenatis dui, vitae pretium metus. Fusce a turpis vestibulum, convallis enim nec, rhoncus orci. Morbi non dolor in sapien iaculis porttitor et quis metus. Suspendisse viverra, tortor in ullamcorper fermentum, libero elit sollicitudin lectus, non finibus nunc ipsum sit amet ante. Ut diam metus, mollis ut ex vel, ornare varius tortor. Vestibulum viverra sagittis neque, egestas feugiat orci ultrices quis. Nam sed erat pellentesque, varius risus eget, consequat nunc. Praesent nec molestie ligula.
 
